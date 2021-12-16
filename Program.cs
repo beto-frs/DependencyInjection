@@ -1,9 +1,7 @@
 ﻿using Microsoft.Extensions.Configuration;
-using static System.Console;
-using System;
 using Microsoft.Extensions.DependencyInjection;
+using System;
 using System.IO;
-using System.Threading.Tasks;
 
 namespace Console_Testes
 {

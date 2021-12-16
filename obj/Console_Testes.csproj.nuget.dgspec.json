@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PROJETOS\\C#\\Console_Testes\\Console_Testes.csproj": {}
+    "D:\\PROJETOS\\C#\\Injeção_Dependencia\\Console_Testes.csproj": {}
   },
   "projects": {
-    "D:\\PROJETOS\\C#\\Console_Testes\\Console_Testes.csproj": {
+    "D:\\PROJETOS\\C#\\Injeção_Dependencia\\Console_Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PROJETOS\\C#\\Console_Testes\\Console_Testes.csproj",
+        "projectUniqueName": "D:\\PROJETOS\\C#\\Injeção_Dependencia\\Console_Testes.csproj",
         "projectName": "Console_Testes",
-        "projectPath": "D:\\PROJETOS\\C#\\Console_Testes\\Console_Testes.csproj",
+        "projectPath": "D:\\PROJETOS\\C#\\Injeção_Dependencia\\Console_Testes.csproj",
         "packagesPath": "C:\\Users\\beto-\\.nuget\\packages\\",
-        "outputPath": "D:\\PROJETOS\\C#\\Console_Testes\\obj\\",
+        "outputPath": "D:\\PROJETOS\\C#\\Injeção_Dependencia\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

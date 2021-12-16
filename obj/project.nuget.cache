@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "53jIL0lZgc2uuJrw6MBvnfUEeSTzvan1wxWTcgRbSavNb2lhjeyjhGE9VjxZwya/L/TcaW7djk+SOe4y58FM3A==",
+  "dgSpecHash": "xwX/OKdbvAM/gIlem0c9nQ4gQ9qUWH7RaK9+yWydzdgcwuULyjQMUvaMLpeK7AxPjN+/qHLnnCQfeth7ZvWscA==",
   "success": true,
-  "projectFilePath": "D:\\PROJETOS\\C#\\Console_Testes\\Console_Testes.csproj",
+  "projectFilePath": "D:\\PROJETOS\\C#\\Injeção_Dependencia\\Console_Testes.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\beto-\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\microsoft.extensions.configuration.6.0.0.nupkg.sha512",
     "C:\\Users\\beto-\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
